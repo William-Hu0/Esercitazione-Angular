@@ -1,0 +1,4 @@
+1. Angular CLI è uno strumento di interfacciache permette di creare app angolari just in time utilizzando node modules, ossia i moduli in stile node.js.
+2. E' un ambiente di sviluppo cloud-based e ospitato che consente di codificare e collaborare senza la necessità di installare strumenti e dipendenze in locale sul proprio computer. 
+3. Git remote show , seguita dal nome del server remoto di proprio interesse.
+4. ng new "nome file"
