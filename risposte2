@@ -9,7 +9,7 @@ es2
 3a. Specifica il percorso del file HTML
 3b. Serve a reperire il foglio di stile che modificherà l’aspetto del template
 3c. per specificare e configurare il componente come un tag HTML
-4
-5
+4.
+5.
 6.Serve a visualizzare i dati della classe TypeScript del componente direttamente nel suo template HTML
 7.è una gerarchia o albero di componenti
